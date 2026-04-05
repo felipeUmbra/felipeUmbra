@@ -13,6 +13,6 @@ Currently building Profile-Test with vanila JS.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeUmbra)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeUmbra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeUmbra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
