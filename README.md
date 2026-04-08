@@ -17,8 +17,3 @@ Currently building Profile-Test with vanilla JS.
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/-GameMaker-039E5C?style=flat&logo=gamemaker&logoColor=white)
-
-## 📈 GitHub Stats
-[![Felipe's GitHub stats](https://github-readme-stats-lrsk9zoj1-blackfenrirnobody-3216s-projects.vercel.app/api?username=felipeUmbra&show_icons=true&theme=radical&v=1&cache_seconds=86400)](https://github.com/felipeUmbra)
-
-[![Top Langs](https://github-readme-stats-lrsk9zoj1-blackfenrirnobody-3216s-projects.vercel.app/api/top-langs/?username=felipeUmbra&layout=compact&theme=radical&v=1&cache_seconds=86400)](https://github.com/felipeUmbra)
