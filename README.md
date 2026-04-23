@@ -3,8 +3,8 @@
 I'm a Sr. QA passionate about trying new things.  
 Currently building Profile-Test with vanilla JS.  
 
-- 🔭 I’m working on my CTFL certification
-- 🌱 I’m learning to be a better manager and to create good small projects with vibe coding  
+- 🔭 I’ve earned recently my [CTFL certificate](https://d3k1q7waft5oho.cloudfront.net/media/certificates/Brightest2026035222.pdf).
+- 🌱 I’m learning to be a better manager and to create good projects with AI assist coding  
 - 📫 How to reach me: [Email](mailto:felipe.santanasantos@yahoo.com.br) | [LinkedIn](https://www.linkedin.com/in/felipessantos/)  
 
 ## 🔧 Technologies & Tools
