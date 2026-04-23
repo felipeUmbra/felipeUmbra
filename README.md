@@ -21,6 +21,6 @@ Currently building Profile-Test with vanilla JS.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipessantos&show_icons=true&theme=radical&hide_border=true" alt="Felipe's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipessantos&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeUmbra&show_icons=true&theme=radical&hide_border=true" alt="Felipe's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeUmbra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </p>
