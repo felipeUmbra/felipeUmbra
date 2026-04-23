@@ -17,3 +17,10 @@ Currently building Profile-Test with vanilla JS.
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/-GameMaker-039E5C?style=flat&logo=gamemaker&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipessantos&show_icons=true&theme=radical&hide_border=true" alt="Felipe's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipessantos&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</p>
