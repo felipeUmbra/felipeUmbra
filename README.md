@@ -21,7 +21,7 @@ Currently building Profile-Test with vanilla JS, [CSV Quiz](https://github.com/f
 ![Cypress](https://img.shields.io/badge/-Cypress-69AD32?style=flat&logo=cypress&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-002244?style=flat&logo=robotframework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-### Game Engins
+### Game Engines
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/-GameMaker-039E5C?style=flat&logo=gamemaker&logoColor=white)
 ### Human Languages
