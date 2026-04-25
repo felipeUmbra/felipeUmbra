@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Felipe
 
 I'm a Lead/Sr. QA passionate about trying new things.  
-Currently building Profile-Test with vanilla JS, [CSV Quiz](https://github.com/felipeUmbra/CSV-Quiz), [Audio Transcribe](https://ai.studio/apps/22855132-c4be-48e3-9333-1e6cc67a5b7c) and [PsychePortal](https://ai.studio/apps/05d93f02-16b9-4c66-b263-af274d926e2a) with Typescript.  
+Currently building Profile-Test with vanilla JS, [CSV Quiz](https://github.com/felipeUmbra/CSV-Quiz), [Audio Transcribe](https://ai.studio/apps/22855132-c4be-48e3-9333-1e6cc67a5b7c) and [PsychePortal](https://felipeumbra.github.io/PsychePortal/) with Typescript.  
 
 - 🔭 I’ve earned recently my [CTFL certificate](https://d3k1q7waft5oho.cloudfront.net/media/certificates/Brightest2026035222.pdf).
 - 🌱 I’m learning to be a better manager and to create good projects with AI assist coding  
