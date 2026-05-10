@@ -3,7 +3,7 @@
 I'm a Lead/Sr. QA passionate about trying new things.  
 Currently building Profile-Test with vanilla JS, [CSV Quiz](https://github.com/felipeUmbra/CSV-Quiz), [Audio Transcribe](https://ai.studio/apps/22855132-c4be-48e3-9333-1e6cc67a5b7c) and [PsychePortal](https://felipeumbra.github.io/PsychePortal/) with Typescript.  
 
-- 🔭 I’ve earned recently my [CTFL certificate](https://d3k1q7waft5oho.cloudfront.net/media/certificates/Brightest2026035222.pdf).
+- 🔭 [CTFL certificate](https://d3k1q7waft5oho.cloudfront.net/media/certificates/Brightest2026035222.pdf).
 - 🌱 I’m learning to be a better manager and to create good projects with AI assist coding  
 - 📫 How to reach me: [Email](mailto:felipe.santanasantos@yahoo.com.br) | [LinkedIn](https://www.linkedin.com/in/felipessantos/)  
 
